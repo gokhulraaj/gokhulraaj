@@ -29,6 +29,6 @@
 </p>
 <br>
 <h3 align="center">Contact info</h3>
-<p align="center"><strong>Mail:</strong> <a href="https://mail.google.com/mail/u/0/#inbox?compose=new&to=gokhulraaj@gmail.com" target="_blank" rel="noopener noreferrer">gokhulraaj@gmail.com</a></p>
+<p align="center"><strong>Mail:</strong> <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gokhulraaj@gmail.com" target="_blank" rel="noopener noreferrer">gokhulraaj@gmail.com</a></p>
 <p align="center"><strong>Phone:</strong> <a href="tel:+917402615559"> <span style="color: blue; text-decoration: underline;">+91 7402615559</span> </a> </p>
 
