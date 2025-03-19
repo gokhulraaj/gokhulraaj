@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Hi 👋, I'm Gokhul Raaj K</h1>
 <h3 align="center">A Passionate Full Stack developer</h3>
 <br>
@@ -32,3 +33,4 @@
 <p align="center"><strong>Mail:</strong> <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gokhulraaj@gmail.com" target="_blank" rel="noopener noreferrer">gokhulraaj@gmail.com</a></p>
 <p align="center"><strong>Phone:</strong> <a href="tel:+917402615559"> <span style="color: blue; text-decoration: underline;">+91 7402615559</span> </a> </p>
 
+-->
